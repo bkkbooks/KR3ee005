@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ee005_000-jc.yaml, hash: 'sha256:e0111012ceae40e7747faa68a7186758245c70e76f38ee0ca0733863fd6adfde'}
+  - {seq: 0, filename: KR3ee005_000-jc.yaml, hash: 'sha256:db57fa6a87cc2e9b9dba47825728383a3c0f9983d6583dd1c515cec9e5af50a3'}
   - {seq: 1, filename: KR3ee005_001-jc.yaml, hash: 'sha256:4e2e1b00cd875852200c0f7da16e164c5885f086fd69abf3ae047594791fbd84'}
   - {seq: 2, filename: KR3ee005_002-jc.yaml, hash: 'sha256:b0aeda7b1fa061849dcb3bcf720d44b55b1f4f0de2eb131f824b86d3314ba996'}
   - {seq: 3, filename: KR3ee005_003-jc.yaml, hash: 'sha256:c993594dbce35ab4b30b683424a07a3cf0110abd46e7ffc71f013ab9cd182c96'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 11, filename: KR3ee005_011-jc.yaml, hash: 'sha256:ccb7541e7df0244230da930387639800b38eae278df4c7fc3896e8e5363c98ea'}
   - {seq: 12, filename: KR3ee005_012-jc.yaml, hash: 'sha256:0b8df1d4b1ee424660dcd618c8501f07d4db542d339462b361cfbde6a4540162'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee005_000-jc.markers.yaml, hash: 'sha256:9ad6ab1465e1a8e953a1c66f17b6fc72cd09282a63dec3a4d857b37a89dc308f'}
+  - {seq: 0, role: markers, filename: assets/KR3ee005_000-jc.markers.yaml, hash: 'sha256:78b8edba2da1d4c0419cf49674db672fbfb6f1531873992ffbb9da6f84d80543'}
   - {seq: 1, role: markers, filename: assets/KR3ee005_001-jc.markers.yaml, hash: 'sha256:f17a77a81cd7d24e9c605fb0eb981019d4e5261f182dfcace5fe3318194221c7'}
   - {seq: 2, role: markers, filename: assets/KR3ee005_002-jc.markers.yaml, hash: 'sha256:41f4c5c0afbd32d471d7f661c5c562a38f52d683f55d5f33f854b484e5de6c4c'}
   - {seq: 3, role: markers, filename: assets/KR3ee005_003-jc.markers.yaml, hash: 'sha256:68d26380fc78f1853a898a2ddefd96ef05ac7facfa0bda87891a5b45956632f1'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee005_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 447
   label: 林序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee005_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 447
     - 1100
   label: 皇甫序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ee005_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1100
     - 1276
   label: 序例
@@ -1595,4 +1595,4 @@ table_of_contents:
   label: 小兒雜病第十一
   type: section
   level: 2
-hash: sha256:539c6c9519b0147a9b43fa7b4e00dea1eeeab17504f435f4fc0f6b7785a02ee2
+hash: sha256:0be8bcc136682bfa5270007efe017b621e875f82543a11095241ce436a0e0231
